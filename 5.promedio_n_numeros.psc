@@ -2,7 +2,7 @@ Algoritmo promedio_n_numeros
 	num<-0;
 	cantidad<-0;
 	suma<-0;
-	Escribir "cuantos números desea ingresar";
+	Escribir "cuantos nÃºmeros desea ingresar";
 	leer cantidad;
 	Para i=1 Hasta cantidad Con Paso  1 Hacer
 		Escribir "numero ", i;
@@ -10,5 +10,5 @@ Algoritmo promedio_n_numeros
 		suma= suma+ num;
 	Fin Para
 	suma=suma/cantidad;
-	Escribir "el promedio de los números ingresados es: ", suma;
+	Escribir "el promedio de los nÃºmeros ingresados es: ", suma;
 FinAlgoritmo
