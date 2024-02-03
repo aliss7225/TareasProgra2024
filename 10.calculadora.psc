@@ -1,6 +1,6 @@
 Algoritmo calculadora
 	Repetir
-		Escribir "¿Desea realizar una operación? Presione un número dependiendo de la opción que quiera utilizar";
+		Escribir "Â¿Desea realizar una operaciÃ³n? Presione un nÃºmero dependiendo de la opciÃ³n que quiera utilizar";
 		Escribir "1. sumar";
 		Escribir "2. restar";
 		Escribir "3. multiplicar";
@@ -29,21 +29,21 @@ Algoritmo calculadora
 					Escribir "ingrese un segundo valor: ";
 					leer segundo;
 					resultado <- primero * segundo;
-					Escribir "el resultado de la multiplicación es: ",resultado;
+					Escribir "el resultado de la multiplicaciÃ³n es: ",resultado;
 				SiNo
 					Si opcion=4 Entonces
 						Escribir "ingrese un primer valor: ";
 						leer primero;
 						Si primero=0 Entonces
-							Escribir "El valor ingresado es cero, por lo tanto la operación no se podrá realizar";
+							Escribir "El valor ingresado es cero, por lo tanto la operaciÃ³n no se podrÃ¡ realizar";
 						SiNo
 							Escribir "ingrese un segundo valor: ";
 							leer segundo;
 							Si segundo=0 Entonces
-								Escribir "El valor ingresado es cero, por lo tanto la operación no se podrá realizar";
+								Escribir "El valor ingresado es cero, por lo tanto la operaciÃ³n no se podrÃ¡ realizar";
 							SiNo
 								resultado <- primero / segundo;
-								Escribir "el resultado de la división es: ",resultado;
+								Escribir "el resultado de la divisiÃ³n es: ",resultado;
 							Fin Si
 							
 						Fin Si
