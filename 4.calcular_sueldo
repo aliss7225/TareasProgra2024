@@ -1,7 +1,7 @@
 Algoritmo calcular_salario
-	Escribir "Ingrese la cantidad de días trabajados durante el mes";
+	Escribir "Ingrese la cantidad de dÃ­as trabajados durante el mes";
 	leer dias;
-	Escribir "Ingrese cual es la cantidad que gana por día";
+	Escribir "Ingrese cual es la cantidad que gana por dÃ­a";
 	leer cantidad;
 	Escribir "Desea ingresar horas extra (si = 1, no = 0";
 	leer horas;
