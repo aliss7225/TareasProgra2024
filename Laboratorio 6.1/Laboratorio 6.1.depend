@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1708531222 source:c:\users\gaby\desktop\tareas progra 2024\laboratorio 6.1\main.cpp
+	<iostream>
+	<iomanip>
+	<cstdlib>
+	<ctime>
+
