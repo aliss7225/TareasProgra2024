@@ -60,7 +60,7 @@ void Fecha::mostrarFecha() const
 }
 int main()
 {
-    Fecha fecha(30, 15, 2006); //Al establecer un mes fuera del ranto este se cambiara automáticamente al correr el programa
+    Fecha fecha(30, 15, 2006);
 
     fecha.mostrarFecha();
 

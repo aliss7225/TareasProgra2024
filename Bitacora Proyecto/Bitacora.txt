@@ -1,0 +1,299 @@
+commit c6d61fbb97dc5dc3da5625dde6d19e645c1fc632
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Wed May 8 08:32:19 2024 -0600
+
+    proyecto
+
+commit d0684f80e172a8b774299cecd9aadbf07e5d4b32
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Mon May 6 19:17:07 2024 -0600
+
+    proyecto
+
+commit 9e6635733ee94e17ea368f19598499736e6d354d
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Mon May 6 09:15:09 2024 -0600
+
+    proyecto
+
+commit 7bb0f71672925a7ea118cfb55c920c9c189dfad6
+Author: Alisson López <Alopezo21@miumg.edu.gt>
+Date:   Mon May 6 08:59:13 2024 -0600
+
+    archivo binario
+
+commit 14143561b2dfd46763432f77ba042a3dc152ae14
+Author: Alisson López <Alopezo21@miumg.edu.gt>
+Date:   Mon May 6 08:56:14 2024 -0600
+
+    subiendo cursos
+
+commit b2cf8ec04aaec05c0938156af4e8421bad831705
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Mon May 6 08:46:21 2024 -0600
+
+    proyecto
+
+commit 127ffb791d344a05cef5b2cf90d6b858e63bd144
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Mon May 6 07:22:50 2024 -0600
+
+    Proyecto
+
+commit d4fcf54786c0717d3525d1e3b6a3e469d4817ca9
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Mon May 6 00:49:21 2024 -0600
+
+    CRUD jornada
+
+commit f9f8c3009dbf67583ed96964f2d4e19880818551
+Author: Pablo Palencia <ppalenciar1@miumg.edu.gt>
+Date:   Sun May 5 15:28:25 2024 -0600
+
+    Diagrama de proceso de asignacion Maestro a Curso
+
+commit c3f5d048f29c62f68962b24a44c27a3eb13bb13e
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sun May 5 01:07:24 2024 -0600
+
+    proyecto
+
+commit c97b23a74ccfa2d78fe13585c25a6d7ae14b5ffd
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sun May 5 01:04:38 2024 -0600
+
+    proyecto
+
+commit e39ad4897d3cb7accd06d4d6448a35430de7f34f
+Merge: b2fd825 9c3747c
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sun May 5 00:47:00 2024 -0600
+
+    CRUD de cursos
+
+commit 9c3747c581bf9206673447ed848e04f931cf0dc6
+Author: Alisson López <Alopezo21@miumg.edu.gt>
+Date:   Sun May 5 00:43:52 2024 -0600
+
+    subiendo CRUD cursos
+
+commit b2fd8255108848474734b48f2c77f9e4283d69d9
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sun May 5 00:38:31 2024 -0600
+
+    arreglos diagrama
+
+commit 9f4c339b95b09228ea15cf7c3281e85cc638bb94
+Merge: c8b6cde 781803d
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sat May 4 23:07:16 2024 -0600
+
+    Merge branch 'Kathiacontreras8246' of https://github.com/Florencia-ari/proyectop12k24
+
+commit c8b6cdeb9b0a56f678d6679c3601cfe670280486
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sat May 4 23:05:41 2024 -0600
+
+    proyecto
+
+commit 45f038d1412463ac8d0c55727053f8bbacfe5abf
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sat May 4 23:02:56 2024 -0600
+
+    proyecto
+
+commit 781803d6691f263f544a026e7242c8367397d19f
+Author: Kathia Contreras <kcontrerasr3@miumg.edu.gt>
+Date:   Sat May 4 21:46:03 2024 -0600
+
+    Pseint - diagrama
+
+commit 20b30d33be89333b5cd417d48938ba81d3e7b745
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sat May 4 21:19:42 2024 -0600
+
+    crud facultades
+
+commit 9d970aa116457d83a023386b08262596ed2a535c
+Author: vicomar <victorgomezcarrascosa@gmail.com>
+Date:   Sat May 4 15:49:37 2024 -0600
+
+    imagen pseint login
+
+commit 833ef582c61397d2f1a259134b4ca311a738204e
+Author: vicomar <victorgomezcarrascosa@gmail.com>
+Date:   Sat May 4 15:45:02 2024 -0600
+
+    subida de pseint
+
+commit 4f8e5f975935772f71af4ca6c99cccb6a0bf98a9
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sat May 4 12:32:11 2024 -0600
+
+    diagramas
+
+commit b126e39596dacdb27c3d67a10e835829d95e4516
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sat May 4 12:29:19 2024 -0600
+
+    proyecto
+
+commit 6416e0cd1d9afa84ea6867b420dce0e6f7bd3bc4
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sat May 4 11:52:41 2024 -0600
+
+    proyecto
+
+commit fa89757fcb24aad627418192112979c864efcb6b
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sat Apr 27 16:46:59 2024 -0600
+
+    proyecto
+
+commit 2505a6b870114fbe68c67e1ef4d1a7248d12c03e
+Merge: b693141 e3952ff
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sat Apr 27 16:46:14 2024 -0600
+
+    Merge branch 'pabloPalencia' of https://github.com/Florencia-ari/proyectop12k24
+
+commit b6931411a292c4a4bb1f24bca1a691a49caae204
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sat Apr 27 16:44:07 2024 -0600
+
+    proyecto
+
+commit e3952ff766aeab3b3b2410a6b4d2b50b602dfb79
+Author: Pablo Palencia <ppalenciar1@miumg.edu.gt>
+Date:   Sat Apr 27 16:31:58 2024 -0600
+
+    Modificaciones CRUD
+
+commit 1360b0186b1f46c28f439a7a1e46fde6f95b9c00
+Author: Kathia Contreras <kcontrerasr3@miumg.edu.gt>
+Date:   Sat Apr 27 00:56:26 2024 -0600
+
+    Crud de asignaciones
+
+commit afe25d1cb5ebbd968aef3cdd982c77908ffe408e
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Fri Apr 26 18:52:59 2024 -0600
+
+    Documentos txt
+
+commit 5cf6e5c0ccb1f59f60772dd5f8e3d020a6323656
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Fri Apr 26 15:12:40 2024 -0600
+
+    menus y arreglos
+
+commit 9c4d146447c8022008a3c45b8f27a2d8edd871c0
+Merge: 09de859 b7126ba
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Fri Apr 26 13:36:45 2024 -0600
+
+    proyecto
+
+commit 09de85948bbc46ad8415361de08e85f1c25571fe
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Fri Apr 26 13:16:10 2024 -0600
+
+     menu principal y login
+
+commit b7126baaaec24df853404ee2745bfaa3f15cd0d4
+Author: vicomar <victorgomezcarrascosa@gmail.com>
+Date:   Thu Apr 25 21:13:25 2024 -0600
+
+    subida de login y menus catedraticos
+
+commit 564aae500bedbbdca7537132d8aed522f0874539
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Thu Apr 25 15:23:54 2024 -0600
+
+    proyecto
+
+commit 5446e88471ee533fcdc478f55f5770c4424dd3b3
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Thu Apr 25 15:11:09 2024 -0600
+
+    proyecto
+
+commit af21e1e6a8aed00fb1be4b680d3338e072046e54
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Thu Apr 25 14:57:53 2024 -0600
+
+    Proyecto
+
+commit 8a2a739f8cf8824c19ba8dae9d68dbb2e5e6a22d
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sun Apr 14 21:01:16 2024 -0600
+
+    menu ingreso de notas
+
+commit f302b74059d09248c9373fb85997ddf471139a8f
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sun Apr 14 20:09:59 2024 -0600
+
+    proyecto
+
+commit 5eeb5a21c0b7648507ba19cd8aab580281179f79
+Merge: a2720bc 67e44ef
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sun Apr 14 19:57:21 2024 -0600
+
+    proyecto
+
+commit 67e44ef12ae3d07241485907bc8b7844d651ef87
+Author: vicomar <victorgomezcarrascosa@gmail.com>
+Date:   Sun Apr 14 19:59:32 2024 -0600
+
+    victor
+
+commit a2720bcb816fca934cf1f1198a46da9349ceaa59
+Author: Kathia Contreras <kcontrerasr3@miumg.edu.gt>
+Date:   Sun Apr 14 19:50:18 2024 -0600
+
+    kathia
+
+commit 69a568462ac6e35eeb220f8b79104b2fee880f49
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sun Apr 14 19:29:24 2024 -0600
+
+    cambios
+
+commit 6f61b832d8702fd2ae10a630a99693c0b5460295
+Merge: 1bfbe74 67ee24d
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sun Apr 14 19:04:35 2024 -0600
+
+    Menu pablo palencia
+
+commit 67ee24d176dc5d956506b951058101db8643f199
+Author: Pablo Palencia <ppalenciar1@miumg.edu.gt>
+Date:   Sun Apr 14 19:01:14 2024 -0600
+
+    subiendo facultad y cursos
+
+commit 1bfbe747862aef2b18bcdc2309b997968aa9121c
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sun Apr 14 18:49:55 2024 -0600
+
+    menus
+
+commit d0c20f9dbd07724928983ec7f64006ada5b32216
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sun Apr 14 18:40:03 2024 -0600
+
+    menus
+
+commit 7da6fb0978733176d9415a6bad3b5f77253b5f3e
+Author: Florencia Ariaga <mariagac@miumg.edu.gt>
+Date:   Sat Apr 13 21:32:34 2024 -0600
+
+     proyecto
+
+commit c7e48de7a1ddace9259e2c233ec7b0173ec756e4
+Author: edelaguila <54811781+edelaguila@users.noreply.github.com>
+Date:   Fri Apr 5 09:12:35 2024 -0600
+
+    Initial commit
